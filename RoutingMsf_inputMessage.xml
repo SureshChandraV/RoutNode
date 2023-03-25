@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MessagePool xmlns="http://wwww.ibm.com/iib/test/1.0.0">
+    <MQInputMessage timestamp="1669828539990" nodeId="FCMComposite_1_1" name="new message 1" id="1669828539990-46">
+        <plainText>%3CMOBILY_BSL_SR%3E%0D%0A%09%3CSR_HEADER%3E%0D%0A%09%09%3CMsgFormate%3EESMPayment%3C%2FMsgFormate%3E%0D%0A%09%09%3CMsgVersion%3E1.0%3C%2FMsgVersion%3E%0D%0A%09%09%3CRequestorUserID%3EEAI%3C%2FRequestorUserID%3E%0D%0A%09%09%3CRequestorChannelID%3EEAI%3C%2FRequestorChannelID%3E%0D%0A%09%09%3CRequestorLanguage%3EE%3C%2FRequestorLanguage%3E%0D%0A%09%09%3CRequestorChannelFunction%3EESMPayment%3C%2FRequestorChannelFunction%3E%0D%0A%09%09%3CRequestorSecurityInfo%3ESecure%3C%2FRequestorSecurityInfo%3E%0D%0A%09%09%3CChannelTransformationID%3E1-238774911760_TEST%3C%2FChannelTransformationID%3E%0D%0A%09%09%3CSrDate%3E20220818035501%3C%2FSrDate%3E%0D%0A%09%3C%2FSR_HEADER%3E%0D%0A%09%3CMSISDN%3E9949489850%3C%2FMSISDN%3E%0D%0A%3C%2FMOBILY_BSL_SR%3E%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A</plainText>
+        <MessageHeader backoutCount="0" characterSet="0" encoding="0" expiry="-1" feedback="0" messageFlags="0" messageType="8" messageSequenceNumber="1" offset="0" originalLength="-1" persistence="2" priority="-1" putApplicationType="0" report="0"/>
+    </MQInputMessage>
+</MessagePool>
